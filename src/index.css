@@ -12,7 +12,7 @@ body {
 .app-container {
   height: 400px;
   width: 300px;
-  background: #2b5870;
+  background: #151b1f;
   border-radius: 20px;
   box-shadow: 10px 10px 38px 0px rgba(0, 0, 0, 0.75);
 }
@@ -27,7 +27,7 @@ body {
 .temperature-display {
   display: flex;
   border-radius: 50%;
-  color: #ffffff;
+  color: #000000;
   height: 220px;
   width: 220px;
   text-align: center;
@@ -68,9 +68,9 @@ button:focus {
 }
 
 .cold {
-  background: #035aa6;
+  background: #e0e5e8;
 }
 
 .hot {
-  background: #ff5200;
+  background: red;
 } 
